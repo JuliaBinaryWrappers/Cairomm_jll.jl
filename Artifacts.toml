@@ -1,0 +1,288 @@
+[[Cairomm]]
+arch = "aarch64"
+git-tree-sha1 = "802e30df20d1ed782a64da181aecf802fe5195e3"
+os = "macos"
+
+    [[Cairomm.download]]
+    sha256 = "419760f62241c55cd38b16b4e139852dc8d66cbeaf68103133bad690366a6323"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.aarch64-apple-darwin.tar.gz"
+[[Cairomm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "330515affd314d28faaaa5bb0c20fd51d9b6d9a3"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "021bc9eab50707834c5303578db1221d6a92706b72cf0582ddc1e9ccccef9ebb"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[Cairomm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9675ed85ea25835467f56cbbb2522d1f5666f9b2"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "d03118f82207c72d89355499b79d521f00768e224bd1a2d7456a378214399ceb"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[Cairomm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0a947b7afc5bcf291aba60722fce88a5878162f9"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "028f1f095c98720220e7a3b3e9262d2a8a8a5046d0b3a0dfafc503f4b97d30ee"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.aarch64-linux-musl-cxx03.tar.gz"
+[[Cairomm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "364f1d890f079b138d408d2c92103e7e772e6c39"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "612341b45a5610e8da877781dbcb76ec58879467c0649504ece1110a0bd47f9e"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.aarch64-linux-musl-cxx11.tar.gz"
+[[Cairomm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c68e91d3a3f23d78542124be9c430f83969cd90d"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "24ebcb5aa313938167d5f32678adbca0d91ef407035c46e7bdf2a26dea978d21"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Cairomm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "72e5e5412d7ad2c3436e366a829a6fe426a1ac8c"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "2e3f5d9ac2da5a3486fe39d29a60c822544caee4903a2b4a393614d51b1fed12"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Cairomm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "367488a5bb4112a31a86a00fcafad69c42b854b2"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "a1005a6f29bc619efc7f6de492823b16b4b4d584b7ddd9e21f90172bba74c074"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Cairomm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e04885423c08a2f282e9451ded0b3cfb17beb90"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "97a2e089cdfc7c9bd1fc1907f2f234a244811fe20ca5df7909a98c70f1ad156a"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Cairomm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "daf93e18d6191cd1e06b80dfbe4f80c6b479faf4"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "664425c70ea84f4ee3b44f167ec96d062b2809e55ec566fa098a8f8ed1bb95ef"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Cairomm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "98c4c8635e8742d56d6ae8c53212cf32cc8b89d8"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "b66de569fd54934693e98e5040880403bd451d25f5a8e7884ce84207ac8f9419"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Cairomm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e3ff7c1415f05e5b70560d83085fcb4a622a17e"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "c35f2aae17a25a4c86f06a7749d1cc27c5e82fb5fe1dc4b5bfc401e986239f88"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Cairomm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8348f4c62c839f117b8f6c6f7475661fe7164a7"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "62c72e0a44f46d7325eacb96b43e1fe17930204973479d99caf5a2b968b43ec3"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Cairomm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3eadb8e6276f8202fb8eedd8462923af06a19527"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "8e62b971487294ab3cc7b9d0890f0af3f7033f592c400e6bad386ee190468b65"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.i686-linux-gnu-cxx03.tar.gz"
+[[Cairomm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9741c964c7d2c4afdd69c94874cc7ca5362fe218"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "171811ad1151c62343a8578d58184170471042f4e75e0299f258d4febca8fe37"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.i686-linux-gnu-cxx11.tar.gz"
+[[Cairomm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dfc5b90177e15e6a5a90cfe8cc58669a6baafc79"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "96faabeaaa0c1908adda37c8e196e42df4c857ec88987560ff7c93f633f3fa69"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.i686-linux-musl-cxx03.tar.gz"
+[[Cairomm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c10ea91525872b66151e4e8f9827ac026df7681"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "db70cef92cfdc60a42d2a509cc397b26478a1521c30ba8f5b4d545abe439a9b1"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.i686-linux-musl-cxx11.tar.gz"
+[[Cairomm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4daf852a7e8c9eab2b26e31ac4d6158633dfe914"
+os = "windows"
+
+    [[Cairomm.download]]
+    sha256 = "31e7b94454212e8633abf5127bad1cf2446b039e4924d421c8fa6ae06ef1b375"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.i686-w64-mingw32-cxx03.tar.gz"
+[[Cairomm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8e061b9c0b2689103e8b37afbec7e6c5db268ad"
+os = "windows"
+
+    [[Cairomm.download]]
+    sha256 = "b3b25e5c6e834d88f7073c0464803f48ee0d393af98bbe329e12637d50eb6247"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.i686-w64-mingw32-cxx11.tar.gz"
+[[Cairomm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2c9636aa411a952cb0589d5e1c21c7c8c8e8bec7"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "4572fc44a59b1a89f9a3440bce01590d54fef2da4a332535074178386e86b300"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Cairomm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "110a692e0fbc8ac5bd074158fd86013cd7294004"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "94c1514b99b72355b2fea5bbba2b8e390735b1c1a49515398e13a99e3e4f8008"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+git-tree-sha1 = "d9e4fa1b5ac689aaf744d2a9d12cdf0120d8a6b4"
+os = "macos"
+
+    [[Cairomm.download]]
+    sha256 = "c5c818c3f3e4846a374e6768302c52df8b8b9ed022eca56abd22a180a5012e0e"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-apple-darwin.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b82a855541283f8abd1e8fe48afd6f86b1f8e39f"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "5799f3168b923e59c31d01d34f9b38253fceb900441cef6014cd7479565a7750"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cba1eaed0658895e8761cea67f20d3eb433c0ccd"
+libc = "glibc"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "f9c06e596470bb2ba229390d5c6b540d53f5200d95f1a6612e2b5544165b6988"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b530d47388985aec469276b306463106f5c2158f"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "ecf03ed0d8cfb2c2d68f980edc05f670e2c4816dee804e08295f456a5e8f95ad"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-linux-musl-cxx03.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc94f3492ed147d943b7c56d732c58e9db90c2ee"
+libc = "musl"
+os = "linux"
+
+    [[Cairomm.download]]
+    sha256 = "6c886dbd448cd6acb88ce3cb1b620056e623fe68b7203d46f4a2edf7909f4bae"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-linux-musl-cxx11.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+git-tree-sha1 = "c844229f6c05b836dfb7c3c7b5b4ba381e2ae995"
+os = "freebsd"
+
+    [[Cairomm.download]]
+    sha256 = "a83a4f1d74bdbec2397c3fcd5b13494acb72c7f39be039043d8590f68788eb57"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-unknown-freebsd.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d1c095207fbbc9cf418898d218e53ccc2ec6fbe3"
+os = "windows"
+
+    [[Cairomm.download]]
+    sha256 = "5879c16c3da900f15db164540d3a5cb1b9a9ca6c3c3b182656a1d0aef5392fd5"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Cairomm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b9640d453994110e9842e8989170d0b9c70d202"
+os = "windows"
+
+    [[Cairomm.download]]
+    sha256 = "0e95db12b82e36ea527a9fc2d9aed072b861465906bb3af6a54b5d28b2cb8813"
+    url = "https://github.com/JuliaBinaryWrappers/Cairomm_jll.jl/releases/download/Cairomm-v1.16.1+0/Cairomm.v1.16.1.x86_64-w64-mingw32-cxx11.tar.gz"
