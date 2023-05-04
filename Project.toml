@@ -1,6 +1,6 @@
 name = "Cairomm_jll"
 uuid = "af74c99f-f0eb-54aa-aecc-a10e8fc65c17"
-version = "1.14.4+0"
+version = "1.16.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,4 +13,4 @@ libsigcpp_jll = "8855df87-3ca1-5a3d-a68b-4f0ddc198ba8"
 JLLWrappers = "1.2.0"
 julia = "1.6"
 Cairo_jll = "1.16.1"
-libsigcpp_jll = "2"
+libsigcpp_jll = "3"
